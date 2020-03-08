@@ -12,7 +12,6 @@ build = "src/build.rs"
 [package.metadata.bundle]
 identifier = "com.tauri.dev"
 icon = [
-  "icons/Square310x310.png",
   "icons/32x32.png",
   "icons/128x128.png",
   "icons/128x128@2x.png",
